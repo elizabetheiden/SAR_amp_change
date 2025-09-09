@@ -46,7 +46,9 @@ copy and paste the text of gee_amp_change_detection into a new script in GEE and
 
 	
 ################# References ##################
+
 Jung, J., & Yun, S.-H. (2020). Evaluation of Coherent and Incoherent Landslide Detection Methods Based on Synthetic Aperture Radar for Rapid Response: A Case Study for the 2018 Hokkaido Landslides. Remote Sensing, 12(2), 265. https://doi.org/10.3390/rs12020265
+
 Gosling, J., Dualeh, E. W., & Biggs, J. (2025, January 10). Analysis and automatic detection of lava flows using SAR backscatter applied to the 2017 eruption of Erta ’Ale Volcano, Ethiopia. In Review. https://doi.org/10.21203/rs.3.rs-5003481/v1
 
 ###############################################
