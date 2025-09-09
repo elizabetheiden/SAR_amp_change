@@ -1,8 +1,8 @@
 # SAR_amp_change
 code related to calculating amplitude change products from SAR data
 
-gee_amp_change_detection is meant to be run in Google Earth Engine
-You will need a GEE account
+gee_amp_change_detection is meant to be run in Google Earth Engine. You will need a GEE account
+
 copy and paste the text of gee_amp_change_detection into a new script in GEE and run
 
 
@@ -52,4 +52,5 @@ Jung, J., & Yun, S.-H. (2020). Evaluation of Coherent and Incoherent Landslide D
 Gosling, J., Dualeh, E. W., & Biggs, J. (2025, January 10). Analysis and automatic detection of lava flows using SAR backscatter applied to the 2017 eruption of Erta ’Ale Volcano, Ethiopia. In Review. https://doi.org/10.21203/rs.3.rs-5003481/v1
 
 ###############################################
+
 script written by Elizabeth Eiden, updated 6/11/25
